@@ -11,3 +11,11 @@
 - `git remote -v`: mostra o nome do repositório remoto
 - `git push origin main`: envia os commits para a branch main no repositório remoto
 - `git pull origin main`: baixa os commits do repositório remoto para o local (Branch main)
+
+## Fluxo de Trabalho
+1. Criar nona branch
+2. Aplicar mudanças com comits atômicos
+3. Enviar commits para o repositório remoto
+4. Abrir _pull request_
+5. Indicar revisores
+6. Após revisão, dar o merge.
