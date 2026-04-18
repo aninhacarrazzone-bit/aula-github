@@ -12,4 +12,4 @@
 - `git push origin main`: envia os commits para a branch main no repositório remoto
 - `git pull origin main`: baixa os commits do repositório remoto para o local (Branch main)
 - `git checkout -b XYZ`: Cria uma nova branch de nome 'XYZ'.
-- `git status`: Exibe o status dos arquivoc do projeto.
+- `git status`: Exibe o status dos arquivo do projeto.
