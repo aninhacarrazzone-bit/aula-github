@@ -16,7 +16,7 @@ public class Tabuada {
         }
 
         for (int i = 1; i <= 10; i++) {
-             System.out.printf("%d X %d= %d\n", numero, i, numero*i);
+             System.out.printf("%d X %d = %d\n", numero, i, numero*i);
         }
     }
     
