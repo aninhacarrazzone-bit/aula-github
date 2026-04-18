@@ -7,4 +7,8 @@ create table tb_alunos(
     data_nascimento datetime not null
 )
 
-insert into tb_alunos values(1,'Ana Maria De Andrade', 'aninhacarrazzone@gmail.com', '1998-07-24');
+insert into treina_recife.tb_alunos values(1,'Ana Maria De Andrade', 'aninhacarrazzone@gmail.com', '1998-07-24');
+
+delete from treina_recife;tb_alunos where id = 1;
+
+drop table treina_recife.tb_alunos;
