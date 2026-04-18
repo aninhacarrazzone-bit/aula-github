@@ -13,3 +13,11 @@
 - `git pull origin main`: baixa os commits do repositório remoto para o local (Branch main)
 - `git checkout -b XYZ`: Cria uma nova branch de nome 'XYZ'.
 - `git status`: Exibe o status dos arquivo do projeto.
+
+## Fluxo de Trabalho
+1. Criar nona branch
+2. Aplicar mudanças com comits atômicos
+3. Enviar commits para o repositório remoto
+4. Abrir _pull request_
+5. Indicar revisores
+6. Após revisão, dar o merge.
